@@ -1,0 +1,249 @@
+CountryCodes,Country,Continent,Latitude,Longitude,Region Code,Language,CountryCurrency
+AFG,Afghanistan,Asia,33.83147477,66.02621828,142,Others,AFN
+ALA,≈land Islands,Europe,60.1785,19.9156,150,Others,EUR
+ALB, Albania,Europe,41.13180899,20.06882519,150,Others,ALL
+DZA,Algeria,Africa,28.16474462,2.63351219,2,Arabic,DZD
+ASM, American Samoa,Oceania,-14.30440488,-170.70783,9,Others,USD
+AND,Andorra,Europe,42.55527067,1.578938861,150,Others,EUR
+AGO,Angola,Africa,-12.3755731,17.59867248,2,Portuguese,AOA
+AIA,Anguilla,Americas,18.22301491,-63.06006462,19,Others,XCD
+ATA,Antarctica,Antarctica,-80.45066299,21.43458373,1,Others,NON
+ATG,Antigua and Barbuda,Americas,17.07120733,-61.79815058,19,English,XCD
+ARG,Argentina,Americas,-34.98567234,-65.12225892,19,Spanish,ARS
+ARM,Armenia,Asia,40.29202499,44.9429026,142,Others,AMD
+ABW,Aruba,Americas,12.5156546,-69.9757266,19,Others,AWG
+AUS, Australia,Oceania,-25.40546125,134.2181189,9,English,AUD
+AUT,Austria,Europe,47.59086187,14.13920086,150,German,EUR
+AZE,Azerbaijan,Asia,40.42670781,47.80669468,142,Others,AZN
+BHS,Bahamas,Americas,25.90317684,-78.61665744,19,English,BSD
+BHR,Bahrain,Asia,26.05396006,50.53486327,142,Arabic,BHD
+BGD,Bangladesh,Asia,23.88207427,90.24107264,142,Others,BDT
+BRB,Barbados,Americas,13.184952,-59.55382245,19,English,BBD
+BLR,Belarus,Europe,53.53965016,28.04932937,150,Others,BYN
+BEL,Belgium,Europe,50.64206011,4.658786236,150,German,EUR
+BLZ,Belize,Americas,17.20829609,-88.69988922,19,English,BZD
+BEN,Benin,Africa,9.642665015,2.342864021,2,French,XOF
+BMU,Bermuda,Americas,32.31605051,-64.73984042,19,Others,BMD
+BTN,Bhutan,Asia,27.41443467,90.43085885,142,Others,BTN
+BOL,Bolivia ,Americas,-16.71483757,-64.66829843,19,Spanish,BOB
+BIH,Bosnia and Herzegovina,Europe,44.16506495,17.79105724,150,Others,BAM
+BES,Bonaire,Americas,12.2019,68.2624,19,Others,USD
+BWA,Botswana,Africa,-22.17991766,23.81673035,2,English,BWP
+BVT,Bouvet Island,Americas,-54.42190835,3.412516924,19,Others,NOK
+BRA,Brazil,Americas,-10.77518961,-53.09141767,19,Portuguese,BRL
+IOT,British Indian Ocean Territory,Africa,-7.334186151,72.43402037,2,Others,USD
+BRN,Brunei Darussalam,Asia,4.439247073,114.4374636,142,Others,BND
+BGR,Bulgaria,Europe,42.76069057,25.23572028,150,Others,BGL
+BFA,Burkina Faso,Africa,12.27790144,-1.738649343,2,French,XOF
+BDI,Burundi,Africa,-3.356208708,29.89200134,2,English,BIF
+KHM,Cambodia,Asia,12.71583138,104.9221723,142,Others,KHR
+CMR,Cameroon,Africa,5.68036831,12.74068837,2,French,XAF
+CAN,Canada,Americas,61.4126317,-98.23039804,19,English,CAD
+CPV,Cabo Verde,Africa,17.52133998,-24.58506404,2,Portuguese,CVE
+CYM,Cayman Islands,Americas,19.31065556,-81.20426038,19,Others,KYD
+CAF,Central African Republic,Africa,6.570747926,20.48450088,2,French,XAF
+TCD,Chad,Africa,15.35740495,18.66399556,2,French,XAF
+CHL,Chile,Americas,-37.68386885,-71.33321859,19,Spanish,CLP
+CHN,China,Asia,36.67464756,103.8680636,142,Others,CNY
+CXR, Christmas Island,Oceania,-10.44411458,105.7036972,9,Others,AUD
+CCK, Cocos Islands,Oceania,-12.17127014,96.83690355,9,Others,AUD
+COL,Colombia,Americas,3.897367041,-73.07080696,19,Spanish,COP
+COM,Comoros,Africa,-11.42407818,42.8293551,2,French,KMF
+COG,Congo,Africa,-0.83949506,15.22629207,2,French,XAF
+COD,Democratic Republic of Congo,Africa,-2.876807692,23.65623593,2,Others,CDF
+COK,Cook Islands,Oceania,-20.14332999,-159.7599857,9,Others,NZD
+CRI,Costa Rica,Americas,9.960735487,-84.18254176,19,Spanish,CRC
+CIV,Cote d Ivoire,Africa,7.630087005,-5.552402136,2,French,XOF
+HRV,Croatia,Europe,45.18877041,16.42353441,150,Others,HRK
+CUB, Cuba,Americas,21.6053525,-78.90713844,19,Spanish,CUP
+CUW,Curacao,Americas,-68.99,12.1696,19,Others,ANG
+CYP,Cyprus,Asia,35.01941238,33.1666508,142,Others,EUR
+CZE,Czechia,Europe,49.74240068,15.34943448,150,Others,CZK
+DNK,Denmark,Europe,56.06439188,9.942213684,150,Others,DKK
+DJI,Djibouti,Africa,11.74658946,42.58022315,2,French,DJF
+DMA,Dominica,Americas,15.42468124,-61.36047599,19,English,XCD
+DOM,Dominican Republic,Americas,18.89453409,-70.49429315,19,Others,DOP
+ECU,Ecuador,Americas,-1.464036749,-78.05190165,19,Spanish,USD
+EGY,Egypt,Africa,26.55281781,29.78562814,2,Others,EGP
+SLV,El Salvador,Americas,13.72764125,-88.86315324,19,Spanish,USD
+GNQ,Equatorial Guinea,Africa,1.412936146,10.61572825,2,French,XAF
+ERI,Eritrea,Africa,15.37695899,38.82792338,2,Others,ERN
+EST,Estonia,Europe,58.70758667,26.168216,150,Others,EUR
+ETH,Ethiopia,Africa,8.633664665,39.61587345,2,Others,ETB
+FLK,Falkland Islands ,Americas,-51.7638724,-55.8098409,19,Others,FKP
+FRO,Faroe Islands,Europe,61.64924758,-6.548553177,150,Others,DKK
+FJI,Fiji,Oceania,-19.0190607,195.3435043,9,English,FJD
+FIN,Finland,Europe,64.52173893,26.29452799,150,Others,EUR
+FRA,France,Europe,46.6984015,2.350055968,150,French,EUR
+GUF,French Guiana,Americas,3.928100844,-53.24266781,19,Others,EUR
+PYF,French Polynesia,Oceania,-24.06211632,-156.7187297,9,Others,XPF
+ATF,French Southern Territories,Africa,-49.32257975,69.49884805,2,Others,EUR
+GAB,Gabon,Africa,-0.595400581,11.79997877,2,French,XAF
+GMB,Gambia,Africa,13.44470328,-15.44718402,2,English,GMD
+GEO,Georgia,Asia,42.17290221,43.5117089,142,Others,GEL
+DEU,Germany,Europe,51.08227882,10.37515859,150,German,EUR
+GHA,Ghana,Africa,7.956118608,-1.209564758,2,English,GHS
+GIB,Gibraltar,Europe,36.13872267,-5.34508156,150,Others,GIP
+GRC,Greece,Europe,39.99547189,22.15714659,150,Others,EUR
+GRL,Greenland,Americas,74.714673,-41.37858526,19,Others,DKK
+GRD,Grenada,Americas,12.11295969,-61.67937955,19,English,XCD
+GLP,Guadeloupe,Americas,16.40393131,-61.75296289,19,Others,EUR
+GUM,Guam,Oceania,13.47185432,144.784677,9,Others,USD
+GTM,Guatemala,Americas,15.699081,-90.35850945,19,Spanish,GTQ
+GGY,Guernsey,Europe,2.5895,49.4482,150,Others,GBP
+GIN,Guinea,Africa,10.43642262,-10.95068301,2,French,GNF
+GNB,Guinea-Bissau,Africa,12.05479161,-14.94108332,2,Portuguese,XOF
+GUY,Guyana,Americas,4.800395012,-58.97699814,19,English,GYD
+HTI,Haiti,Americas,18.94164176,-72.65840205,19,French,HTG
+HMD,Heard Island and McDonald Islands,Oceania,-53.0998917,73.52881216,9,Others,AUD
+VAT,Holy See,Europe,41.90336493,12.45225447,150,Others,EUR
+HND,Honduras,Americas,14.80908243,-86.63495948,19,Spanish,HNL
+HKG,Hong Kong ,Asia,22.4216098,114.1539976,142,Others,HKD
+HUN,Hungary,Europe,47.16567815,19.42172591,150,Others,HUF
+ISL,Iceland,Europe,64.99668622,-18.61425416,150,Others,ISK
+IND,India,Asia,22.37137039,79.32792202,142,English,INR
+IDN,Indonesia,Asia,-2.21433486,117.2844335,142,Others,IDR
+IRN,Iran ,Asia,32.57533772,54.2973284,142,Others,IRR
+IRQ,Iraq,Asia,33.04497404,43.77207391,142,Others,IQD
+IRL,Ireland,Europe,53.16969376,-8.154213185,150,English,EUR
+IMN,Isle of Man,Europe,51.5214,-3.6666,150,Others,GBP
+ISR,Israel,Asia,31.33857325,34.96023155,142,Others,ILS
+ITA,Italy,Europe,43.76610159,11.68396919,150,Others,EUR
+JAM,Jamaica,Americas,18.15206196,-77.31137184,19,English,JMD
+JPN,Japan,Asia,37.63209801,138.0812256,142,Others,JPY
+JEY,Jersey,Europe,33.1238,34.5816,150,Others,GBP
+JOR,Jordan,Asia,31.25223934,36.78497101,142,Arabic,JOD
+KAZ,Kazakhstan,Asia,48.16011678,67.30440515,142,Others,KZT
+KEN,Kenya,Africa,0.529620946,37.85784174,2,English,KES
+KIR,Kiribati,Oceania,1.844810739,-160.2677952,9,English,AUD
+PRK,North Korea,Asia,40.14251168,127.1828259,142,Others,KPW
+KOR,South Korea,Asia,36.52377792,127.8821461,142,Others,KRW
+KWT, Kuwait,Asia,29.29832118,47.53304536,142,Others,KWD
+KGZ,Kyrgyzstan,Asia,41.46387775,74.55247592,142,Others,KGS
+LAO,Lao,Asia,18.50518622,103.7662533,142,Others,LAK
+LVA,Latvia,Europe,56.85765774,24.92335393,150,Others,EUR
+LBN,Lebanon,Asia,33.91995955,35.88513386,142,Others,LBP
+LSO,Lesotho,Africa,-29.58448841,28.24105147,2,English,LSL
+LBR,Liberia,Africa,6.445498409,-9.307443775,2,English,LRD
+LBY,Libya,Africa,27.04420762,18.02212777,2,Others,LYD
+LIE,Liechtenstein,Europe,47.16457362,9.558885464,150,German,CHF
+LTU,Lithuania,Europe,55.3344892,23.90739502,150,Others,EUR
+LUX,Luxembourg,Europe,49.77027091,6.08637699,150,French,EUR
+MAC,Macao ,Asia,22.1985265,113.5450075,142,Others,MOP
+MKD,Macedonia,Europe,41.59654823,21.69480535,150,Others,MKD
+MDG,Madagascar,Africa,-19.37969027,46.70406219,2,Others,MGA
+MWI,Malawi,Africa,-13.21991287,34.31171876,2,English,MWK
+MYS,Malaysia,Asia,2.745185714,140.4915783,142,Others,MYR
+MDV,Maldives,Asia,5.068606213,73.32614511,142,Others,MVR
+MLI,Mali,Africa,17.34640627,-3.525051581,2,French,XOF
+MLT,Malta,Europe,35.90417953,14.42365795,150,English,EUR
+MHL,Marshall Islands,Oceania,9.499091883,169.0954645,9,English,USD
+MTQ,Martinique,Americas,14.65403719,-61.02842534,19,Others,EUR
+MRT,Mauritania,Africa,20.25780429,-10.33010275,2,Arabic,MRU
+MUS,Mauritius,Africa,-20.27530781,57.56676664,2,English,MUR
+MYT,Mayotte,Africa,-12.81970382,45.13516865,2,Others,EUR
+MEX,Mexico,Americas,23.93832004,-102.5023164,19,Others,MXN
+FSM,Micronesia ,Oceania,6.879864281,158.2381178,9,English,USD
+MDA,Moldova,Europe,47.19293174,28.47499987,150,Others,MDL
+MCO,Monaco,Europe,43.74830756,7.410882167,150,French,EUR
+MNG,Mongolia,Asia,46.83576732,103.0813238,142,Others,MNT
+MNE,Montenegro,Europe,42.78905871,19.26989732,150,Others,EUR
+MSR,Montserrat,Americas,16.73536624,-62.18693595,19,Others,XCD
+MAR,Morocco,Africa,31.8836769,-6.317283613,2,Others,MAD
+MOZ,Mozambique,Africa,-17.2617763,35.55202528,2,Others,MZM
+MMR,Myanmar,Asia,21.17952353,96.50232755,142,Others,MMK
+NAM,Namibia,Africa,-22.13362728,17.21558466,2,English,NAD
+NRU,Nauru,Oceania,-0.528781574,166.9232132,9,English,AUD
+NPL,Nepal,Asia,28.25396507,83.9316657,142,Others,NPR
+NLD,Netherlands,Europe,52.26998137,5.675062933,150,Others,EUR
+NLDA,Netherlands Antilles,Americas,15.49421103,-67.12509177,19,Others,ANG
+NCL,New Caledonia,Oceania,-21.33942425,165.2996228,9,Others,XPF
+NZL,New Zealand,Oceania,-56.5161571,161.1190313,9,English,NZD
+NIC,Nicaragua,Americas,12.83712778,-85.03655572,19,Spanish,NIO
+NER,Niger,Africa,17.42463558,9.397470038,2,French,XOF
+NGA,Nigeria,Africa,9.590667555,8.10605344,2,English,NGN
+NIU,Niue,Oceania,-19.05213426,-169.8688481,9,Others,NZD
+NFK,Norfolk Island,Oceania,-29.0376577,167.952597,9,Others,AUD
+NOR,Norway,Europe,64.41197955,14.06269622,150,Others,NOK
+OMN,Oman,Asia,20.53707855,56.1036955,142,Arabic,OMR
+PAK,Pakistan,Asia,29.35468377,68.78655545,142,English,PKR
+PLW,Palau,Oceania,7.514890523,134.5751097,9,English,USD
+PSE, State of Palestine,Asia,31.99084142,35.30744047,142,Others,ILS
+PAN,Panama,Americas,8.518057314,-80.07104511,19,English,PAB
+PNG,Papua New Guinea,Oceania,-6.834760878,143.0464597,9,Others,PGK
+PRY,Paraguay,Americas,-23.23840821,-58.39126243,19,Spanish,PYG
+PER,Peru,Americas,-9.167216491,-74.37537796,19,Spanish,PEN
+PHL,Philippines,Asia,-0.736653675,127.2358509,142,English,PHP
+PCN,Pitcairn,Oceania,-24.2051566,-127.9093208,9,Others,NZD
+POL,Poland,Europe,52.12847492,19.40086,150,Others,PLN
+PRT,Portugal,Europe,39.23901506,-30.21832194,150,Portuguese,EUR
+PRI,Puerto Rico,Americas,18.22412124,-66.47814528,19,Spanish,USD
+QAT,Qatar,Asia,25.29089005,51.1841661,142,Others,QAR
+REU,RÈunion,Africa,-21.12280909,55.55123933,2,Others,EUR
+ROU,Romania,Europe,45.84314501,24.96613666,150,Others,RON
+RUS,Russian Federation,Europe,61.97564081,96.67837519,150,Others,RUB
+RWA,Rwanda,Africa,-1.991722808,29.92068123,2,English,RWF
+BLM,Saint Barth√©lemy,Americas,22.6598,66.3478,19,Others,EUR
+SHN,Saint Helena,Africa,15.6875,67.1542,2,Others,SHP
+KNA,Saint Kitts and Nevis,Americas,17.32619066,-62.7533967,19,English,XCD
+LCA,Saint Lucia,Americas,13.90391475,-60.96175259,19,English,XCD
+MAF,Saint Martin (French part),Americas,11.3354,26.2547,19,Others,EUR
+SPM,Saint Pierre and Miquelon,Americas,85.1427,65.1247,19,Others,EUR
+VCT,Saint Vincent and The Grenadines,Americas,13.25481082,-61.19376585,19,English,XCD
+WSM,Samoa,Oceania,-13.16992041,-173.5139768,9,English,WST
+SMR,San Marino,Europe,43.94362477,12.45862763,150,Others,EUR
+STP,Sao Tome and Principe,Africa,0.227069777,6.614376446,2,Portuguese,STN
+SAU, Saudi Arabia,Asia,24.12628999,44.54637538,142,Arabic,SAR
+SEN,Senegal,Africa,14.35710542,-14.4780169,2,French,XOF
+SRB,Serbia,Europe,44.03017332,20.80259395,150,Others,RSD
+SYC,Seychelles,Africa,-4.651257344,55.46250801,2,English,SCR
+SLE,Sierra Leone,Africa,8.571898577,-11.77850059,2,English,SLL
+SGP,Singapore,Asia,1.344965221,103.8094495,142,English,SGD
+SXM,Sint Maarten ,Americas,18.0425,63.0548,19,Others,ANG
+SVK,Slovakia,Europe,48.70609262,19.49110883,150,Others,EUR
+SVN,Slovenia,Europe,46.123589,14.82836958,150,Others,EUR
+SLB,Solomon Islands,Oceania,-8.823576119,159.6577946,9,English,SBD
+SOM,Somalia,Africa,6.070298569,45.86808802,2,Others,SOS
+ZAF,South Africa,Africa,-28.99235649,25.09025016,2,English,ZAR
+SGS,South Georgia ,Americas,54.4296,36.5879,19,Others,GBP
+ESP,Spain,Europe,40.3097875,-3.578125378,150,Others,EUR
+LKA,Sri Lanka,Asia,7.617249894,80.70787736,142,Others,LKR
+SSD,South Sudan,Africa,7.295889595,30.30870192,2,English,SSP
+SDN,Sudan,Africa,16.04892872,30.00339118,2,English,SDG
+SUR,Suriname,Americas,4.125518847,-55.91480138,19,Others,SRD
+SJM,Svalbard and Jan Mayen Islands,Europe,77.62362195,6.012261852,150,Others,NOK
+SWZ,Kingdom of Eswatini,Africa,-26.56643647,31.50113832,2,English,SZL
+SWE,Sweden,Europe,62.88018421,16.72425629,150,Others,SEK
+CHE,Switzerland,Europe,46.80615952,8.243637777,150,French,CHF
+SYR,Syrian Arab Republic,Asia,35.01105189,38.51123805,142,Others,SYP
+TWN,Taiwan ,Asia,23.74652012,120.9621301,142,Others,TWD
+TJK,Tajikistan,Asia,38.52699814,71.04232577,142,Others,TJS
+TZA,Tanzania,Africa,-6.273241244,34.79620168,2,English,TZS
+THA,Thailand,Asia,15.15949511,101.020107,142,Others,THB
+TLS,Timor-Leste,Asia,-8.767718612,126.0420452,142,Others,USD
+TGO,Togo,Africa,8.541637601,0.97409513,2,French,XOF
+TKL,Tokelau,Oceania,-9.195175351,-171.8526597,9,Others,NZD
+TON,Tonga,Oceania,-22.92273894,-176.0448464,9,English,TOP
+TTO,Trinidad and Tobago,Americas,10.40535665,-61.29228487,19,English,TTD
+TUN,Tunisia,Africa,34.10810736,9.557630913,2,Others,TND
+TUR,Tarkiye,Asia,38.91218946,35.69849765,142,Others,TRY
+TKM,Turkmenistan,Asia,39.12455662,59.38935348,142,Others,TMT
+TCA,Turks and Caicos Islands,Americas,21.81744592,-71.77770318,19,Others,USD
+TUV,Tuvalu,Oceania,-10.46069351,181.0881855,9,English,AUD
+UGA,Uganda,Africa,1.280667326,32.38662225,2,English,UGX
+UKR,Ukraine,Europe,49.01900507,31.37809941,150,Others,UAH
+ARE,United Arab Emirates,Asia,23.90525867,54.35072869,142,Others,AED
+GBR,United Kingdom ,Europe,53.75504855,-2.103843405,150,English,GBP
+USA,United States of America,Americas,45.73643438,-112.404207,19,English,USD
+UMI,United States Minor Outlying Islands ,Oceania,19.2823,166.647,9,Others,USD
+URY,Uruguay,Americas,-32.80198719,-56.01417232,19,Spanish,UYU
+UZB,Uzbekistan,Asia,41.74950759,63.17455249,142,Others,UZS
+VUT,Vanuatu,Oceania,-21.04390394,171.2797047,9,English,VUV
+VEN,Venezuela ,Americas,7.115201972,-66.18367077,19,Spanish,VEF
+VNM,Viet Nam,Asia,16.64893259,106.3103686,142,Others,VND
+VGB,British Virgin Islands,Americas,18.30332154,-65.11493198,19,Others,USD
+WLF,Wallis and Futuna Islands,Oceania,14.2938,178.1165,9,Others,XPF
+ESH,Western Sahara,Africa,24.66295331,-13.13425705,2,Others,MAD
+YEM,Yemen,Asia,15.96506363,47.50305348,142,Arabic,YER
+ZMB,Zambia,Africa,-13.45369192,27.80039565,2,English,ZMK
+ZWE,Zimbabwe,Africa,-19.00126774,29.86951021,2,English,ZWL
